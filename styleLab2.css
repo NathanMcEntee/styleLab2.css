@@ -1,0 +1,21 @@
+th{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: lime; text-align: center; border-color: blueviolet;
+}
+td{ 
+    border-style: dotted; font-style: italic;
+}
+h3{
+    font-family: fantasy;
+}
+a:link{
+    color: red; 
+}
+a:visited{
+    color: plum;
+}
+a:active{
+    color:honeydew
+}
+a:hover{
+    color: steelblue;
+}
